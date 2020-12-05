@@ -17,6 +17,9 @@ Here, we use Logistic Regression to classifiy that if the tweet is postive or ne
 
 We get accuracy of 99 % by calcuating the f1- Score as follow :
 
-![](Test%20accuracy/f1_score.JPG)
+![](Test%20accuracy/f1_score.JPG)<br/>
+
+Confusion Matrix:
+
 
 
