@@ -5,8 +5,8 @@ Sentiment analysis is a technique that detects the underlying sentiment in a pie
 
 # Data-Set:
 
-Here we work with a data set of tweets. 
-We downlowd it from ntlk using this command:  nltk.download('twitter_samples')
+Here we work with a data set of tweets.<br/>
+We downlowd it from ntlk using this command:  nltk.download('twitter_samples') <br/>
 We divided it into train samples = 8000 and test samples = 2000   
 
 # Model
