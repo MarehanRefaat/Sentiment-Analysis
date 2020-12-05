@@ -21,5 +21,7 @@ We get accuracy of 99 % by calcuating the f1- Score as follow :
 
 Confusion Matrix:
 
+![](Test%20accuracy/confusion_mat.JPG)
+
 
 
